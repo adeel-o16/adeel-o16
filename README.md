@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adeel-o16" alt="adeel-o16" /></a> </p>
 
-- 🔭 I’m currently working on **Food Fire + Knives**
+- 🔭 I’m currently working on [Food Fire + Knives](https://github.com/O16Labs-Khi/FFK-API)
 
 - 🌱 I’m currently learning **Django, DevOps**
 
